@@ -1,2 +1,2 @@
 # bank_teller
-Python for Finance off-platform guided project.
+Python for Finance Codecademy off-platform guided project.
